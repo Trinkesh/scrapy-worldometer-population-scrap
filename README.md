@@ -21,8 +21,14 @@ create scrapy project diretory:
 
 [worldometer](https://www.worldometers.info/world-population/population-by-country/) website used for scarping world population.
 
-use your browsers developer option ctrl + shift + i i used in chrome for the websites html/css part from where you are going to fetch data.
-have to perform some syntax oprations to get desired data.
+## now Inspecting the Web with Chrome's DevTools
+You can open the DevTools by going to the menu and selecting View -> Developer -> Developer Tools.
+
+Or better yet, use the keyboard shortcut: ctrl + shift + i
+inspecting HTML/CSS elements 
+and also have to disable java script of webiste for inspection simply use shortcut ctrl + shift + p an search box will appears search for javascript and disable it.
+
+### now open the project directory in command prompt.
 ![fatch](https://raw.githubusercontent.com/Trinkesh/scrapy-worldometer-population-scrap/master/scrapy%20shell.png)
 
 some of the websites for performing synatax featch selecting css/xpath-
@@ -33,4 +39,5 @@ some of the websites for performing synatax featch selecting css/xpath-
 It can also be used to test addressed nodes within a document to determine whether they match a pattern or not. 
 [xpath-playground](https://scrapinghub.github.io/xpath-playground/)
 
+as we understand which syntax giving us the right data we can perfrom scraping opration into your project file.
 

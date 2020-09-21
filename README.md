@@ -39,5 +39,7 @@ some of the websites for performing synatax featch selecting css/xpath-
 It can also be used to test addressed nodes within a document to determine whether they match a pattern or not. 
 [xpath-playground](https://scrapinghub.github.io/xpath-playground/)
 
+use your choice python IDE and give command to scarping file for what kind of data you want to collect. 
+
 as we understand which syntax giving us the right data we can perfrom scraping opration into your project file.
 

@@ -19,7 +19,7 @@ create scrapy project diretory:
 
 ![setup image](https://raw.githubusercontent.com/Trinkesh/scrapy-worldometer-population-scrap/master/scrapy%20setup.png)
 
-[worldometer](https://www.worldometers.info/world-population/population-by-country/) website used for scarping world populaion.
+[worldometer](https://www.worldometers.info/world-population/population-by-country/) website used for scarping world population.
 
 use your browsers developer option ctrl + shift + i i used in chrome for the websites html/css part from where you are going to fetch data.
 have to perform some syntax oprations to get desired data.
